@@ -1,2 +1,1 @@
-# houserent12
-repo
+# HouseRent
